@@ -3,12 +3,6 @@ package {
 }
 
 kernel_headers {
-    name: "qti_kernel_headers",
-    vendor: true,
-    recovery_available: true,
-}
-
-kernel_headers {
     name: "qti_display_kernel_headers",
     vendor: true,
     recovery_available: true
